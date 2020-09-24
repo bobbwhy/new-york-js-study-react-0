@@ -1,0 +1,19 @@
+
+.header {
+  display: flex;
+  align-items: center;
+
+  position: fixed;
+  padding: 3px 10px;
+  z-index: 1;
+
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(51,55,152,0.9906163148853291) 73%, rgba(0,1,36,1) 100%);
+
+  color: #fff;
+}
+
+.header .title {
+  padding: 0;
+  font-size: 1.2rem;
+}
