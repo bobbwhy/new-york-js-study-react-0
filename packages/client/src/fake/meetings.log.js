@@ -1,12 +1,6 @@
 
 export const fakeMeetings = [
   {
-    date: '9/23/2020'
-  },
-  {
-    date: '9/16/2020'
-  },
-  {
     date: '9/30/2020',
     title: 'Study Time Meetup',
     description: `
@@ -15,5 +9,11 @@ export const fakeMeetings = [
       Then we got jealous of someone's monitors.
       And now to plans of world domination.
     `
-  }
+  },
+  {
+    date: '9/23/2020'
+  },
+  {
+    date: '9/16/2020'
+  },
 ];

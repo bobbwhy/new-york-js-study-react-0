@@ -28,5 +28,6 @@ members.  Also, the members will help to review the code and offer suggestions.
 **3: During said demo, the contributor must also give a walk through of their code to the group.**  
 
  
-
+#### Some Other Junk
+This is some other stuff we are just reviewing
       
